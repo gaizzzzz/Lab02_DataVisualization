@@ -24,4 +24,4 @@ https://public.tableau.com/app/profile/qu.ng.l.thanh.th.i/viz/MonthlyAirPassenge
 
 ---
 # Link Video (Presentation of Lab 3)
-https://www.youtube.com/watch?v=3Bc42j2A0PA
+https://www.youtube.com/watch?v=pZ0TAaCghB4
